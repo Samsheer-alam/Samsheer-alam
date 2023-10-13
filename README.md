@@ -1,22 +1,19 @@
-<!-- ### Hi there 👋  I'm Samsheer Alam, a results-driven software engineer with over 4 years of experience.
-### My expertise extends across the full stack, encompassing React and Node.js technologies, and I have a solid foundation in cloud computing with AWS. My career has been marked by consistent contributions to successful projects, and I am passionate about crafting innovative solutions, optimizing performance, and delivering high-quality software that drives business success. -->
+### Hi there 👋  I'm Samsheer Alam
+<img align="right" height="200px" alt="GIF" src="https://github.com/Samsheer-alam/Samsheer-alam/assets/100825540/918c14d7-53c8-45bf-a2dd-8677741d74ea" />
 
+<div style="font-size:20px; width:70%">
+  <br />
+  <b>Software Engineer</b> with over <b>4 years</b> of experience. My expertise extends across the <b>full stack</b>, encompassing <b>React</b> and <b>Node.js</b> technologies, and I have a solid foundation in cloud             computing with <b>AWS</b>.
+  <br /><br />
+  I am passionate about crafting innovative solutions, optimizing performance, and delivering high-quality software that drives business success.
+</div>
 
-<table>
-  <tr>
-    <td>
-      <div style="color: white; font-size:30px">
-        Hi there 👋  I'm Samsheer Alam
-      </div>
-      <div>
-        a results-driven software engineer with over 4 years of experience. My expertise extends across the full stack, encompassing React and Node.js technologies, and I have a solid foundation in cloud computing with AWS. My career has been marked by consistent contributions to successful projects, and I am passionate about crafting innovative solutions, optimizing performance, and delivering high-quality software that drives business success.
-      </div>
-    </td>
-    <td>
-      <img src="./images/computer.jpeg" width="600" />
-    </td>
-  </tr>
-</table>
+<!--div style="width:30%;height:200px">
+  
+  ![computer](https://github.com/Samsheer-alam/Samsheer-alam/assets/100825540/918c14d7-53c8-45bf-a2dd-8677741d74ea)
+  
+</div-->
+
 <!--
 **Samsheer-alam/Samsheer-alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
