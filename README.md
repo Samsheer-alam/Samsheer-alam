@@ -13,7 +13,7 @@
       </div>
     </td>
     <td>
-      <img src="./images/computer.jfif" width="600" />
+      <img src="./images/computer.jpeg" width="600" />
     </td>
   </tr>
 </table>
